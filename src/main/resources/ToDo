@@ -1,0 +1,23 @@
+
+Controller time out after REMOVE operation start
+investigat ControllerConnectionHandlers getting stuck on br.readLine
+
+
+
+DStores check if file exsists in folder not the dStore hashmap (can we assume Dstores start with no files)
+During Rebalance we wait for all teh Dstores response, what if they crash????
+
+
+
+Where I left off: run client main then ServerMain strauight away
+
+
+
+
+
+
+
+
+:: Windows
+> dir /s /B *.java > sources.txt
+> javac @sources.txt
